@@ -32,5 +32,4 @@
 [![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
 
 ## Контакты
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nambo0diris)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/namboodiris)
