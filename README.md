@@ -33,7 +33,10 @@
 
 ### 🤖 AI Tools
 
-ChatGPT · OpenAI API · Cursor · Prompt Engineering
+[![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
+[![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-000000?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com/)
+[![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.com/)
+[![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-7C3AED?style=for-the-badge&logoColor=white)](https://github.com/nambo0diris)
 
 ## Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/namboodiris)
